@@ -2,6 +2,6 @@ package util
 
 import "fmt"
 
-func page() {
+func Page() {
 	fmt.Println("page~")
 }
